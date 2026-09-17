@@ -1,9 +1,10 @@
 # Owen Mank
 
 **Technology Volunteer**
-*Building useful technology to help animals, adopters, and shelter staff.*
 
-**Date: September 17, 2027**
+*Using technology to help animals, adopters, and shelter staff.*
+
+Date: September 17, 2027
 
 ## Skills
 
@@ -32,28 +33,31 @@
 
 ## Education
 
-**University of Wisconsin-Milwaukee**
+University of Wisconsin-Milwaukee
+
 Information Science & Technology
-Expected 2027
 
-## Future Skills — 2027
+Expected Graduation: 2027
 
-* Network administration
+## Future Skills
+
+* Network Administration
 * Active Directory
 * Cybersecurity
-* Cloud computing
-* Building forms, grids, and charts to explain data
+* Cloud Computing
+* Building forms, grids, and charts
 * Using SQL to work with live data
-* Using AI to help develop and test applications
+* Using AI to develop and test applications
 
 ## Preferred Pets
 
 1. Dogs
 2. Cats
 3. Rabbits
+4. Gerbils
 
 ## Contact
 
-[Email Owen](mailto:owen.mank@example.com)
+[Email Me](mailto:owen.mank@example.com)
 
-![Shelter dog](https://placedog.net/300/200)
+![Dog](https://placedog.net/300/200)
