@@ -31,6 +31,8 @@ gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	2
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	3/3	1/1	2026-09-13T20:05:34.114Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/02_monday_after	7/7	1/1	2026-09-13T20:06:23.634Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/03_concepts	3/3	1/1	2026-09-13T20:07:29.337Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/01_volunteer	3/3	0/1	2026-09-13T20:13:46.594Z
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/01_volunteer	3/3	0/1	2026-09-17T15:07:13.141Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/02_north_burns	0/0	1/2	2026-09-13T20:14:15.515Z
-crc 2389c1b0
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/03_broken_wire	2/2	0/1	2026-09-13T20:16:37.966Z
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/04_concepts	2/2	0/0	2026-09-13T20:16:50.024Z
+crc bb50a3fa
