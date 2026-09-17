@@ -52,9 +52,9 @@ Expected Graduation: 2027
 ## Preferred Pets
 
 1. Dogs
-2. Cats
-3. Rabbits
-4. Gerbils
+1. Cats
+1. Rabbits
+1. Gerbils
 
 ## Contact
 
