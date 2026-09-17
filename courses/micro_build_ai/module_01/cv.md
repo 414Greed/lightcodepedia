@@ -1,46 +1,59 @@
-Owen Mank
+# Owen Mank
 
-Volunteer focused on building useful tools and improving the shelter experience for animals and adopters. I enjoy solving problems and turning ideas into working projects.
+**Technology Volunteer**
+*Building useful technology to help animals, adopters, and shelter staff.*
 
-Skills
-Python
-HTML/CSS
-Java
-SQL / MySQL
-Networking
-Computer troubleshooting
-Experience
+**Date: September 17, 2027**
 
-IT & Technical Projects
-2025–Present
+## Skills
 
-Built small software projects using Python and Java.
-Created and managed databases using MySQL.
-Practiced networking and system administration in a personal homelab.
-Troubleshot computers, software, and network connections.
+* Python
+* HTML/CSS
+* Java
+* SQL / MySQL
+* Networking
+* Computer troubleshooting
 
-Shelter Volunteer
-2026–Present
+## Experience
 
-Helped maintain clean and organized animal areas.
-Assisted visitors with adoption questions.
-Supported staff during adoption events.
-Helped improve the shelter's technology and organization.
-Education
+### IT & Technical Projects
 
-University of Wisconsin-Milwaukee
+* Built software projects using Python and Java.
+* Created and managed databases using MySQL.
+* Practiced networking and system administration in a personal homelab.
+* Troubleshot computers, software, and network connections.
+
+### Shelter Volunteer
+
+* Helped maintain clean and organized animal areas.
+* Assisted visitors with adoption questions.
+* Supported staff during adoption events.
+* Helped improve the shelter's technology and organization.
+
+## Education
+
+**University of Wisconsin-Milwaukee**
 Information Science & Technology
 Expected 2027
 
-Future Skills — 2027
-Network Administration
-Active Directory
-Cybersecurity
-Cloud Computing
-Preferred Pets
-Dogs
-Cats
-Rabbits
-Contact
+## Future Skills — 2027
 
-owen.mank@example.com
+* Network administration
+* Active Directory
+* Cybersecurity
+* Cloud computing
+* Building forms, grids, and charts to explain data
+* Using SQL to work with live data
+* Using AI to help develop and test applications
+
+## Preferred Pets
+
+1. Dogs
+2. Cats
+3. Rabbits
+
+## Contact
+
+[Email Owen](mailto:owen.mank@example.com)
+
+![Shelter dog](https://placedog.net/300/200)
